@@ -1,1 +1,1 @@
-# CPP_Gerasimenko
+# Gerasimenko C++ Project
